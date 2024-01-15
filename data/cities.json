@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "la Vansa i Fornols",
+      "country": "Spain",
+      "date": "2024-01-14T16:36:58.873Z",
+      "emoji": "🇪🇸",
+      "notes": "Very good city",
+      "position": {
+        "lat": "42.26301639365518",
+        "lng": "1.5380859375000002"
+      },
+      "id": 17806752
+    }
+  ]
+}
